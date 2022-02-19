@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "607533318614",
+    "project_id": "mill-52381",
+    "storage_bucket": "mill-52381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607533318614:android:5b0d19178776d76b4c6477",
+        "android_client_info": {
+          "package_name": "com.example.mill_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607533318614-9sth5vgdm7drf3fu5ojd9hm7ja5t4ecd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSkP7MneYzY594JBe0FN-A1P1TiKALY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607533318614-9sth5vgdm7drf3fu5ojd9hm7ja5t4ecd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607533318614:android:23a3aca6bbc0c49d4c6477",
+        "android_client_info": {
+          "package_name": "com.example.bakeryshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607533318614-9sth5vgdm7drf3fu5ojd9hm7ja5t4ecd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSkP7MneYzY594JBe0FN-A1P1TiKALY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607533318614-9sth5vgdm7drf3fu5ojd9hm7ja5t4ecd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
